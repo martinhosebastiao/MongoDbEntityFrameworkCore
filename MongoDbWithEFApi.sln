@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbWithEFApi", "MongoDbWithEFApi\MongoDbWithEFApi.csproj", "{190C8B4F-AA6E-4F71-9BCD-B6E610BC4EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190C8B4F-AA6E-4F71-9BCD-B6E610BC4EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190C8B4F-AA6E-4F71-9BCD-B6E610BC4EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190C8B4F-AA6E-4F71-9BCD-B6E610BC4EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190C8B4F-AA6E-4F71-9BCD-B6E610BC4EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
